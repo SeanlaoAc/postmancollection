@@ -1,0 +1,22 @@
+{
+  "name": "api-collection",
+  "version": "1.0.0",
+  "description": "Project",
+  "dependencies": {
+    "newman": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "newman run API_Demo.postman_collection.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeanlaoAc/postmancollection.git"
+  },
+  "author": "Sean Michael Lao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeanlaoAc/postmancollection/issues"
+  },
+  "homepage": "https://github.com/SeanlaoAc/postmancollection#readme"
+}
