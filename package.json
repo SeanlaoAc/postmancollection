@@ -7,7 +7,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "newman run API_Demo.postman_collection.json"
+    "test": "newman run API_Demo.postman_collection.json --disable --unicode " 
   },
   "repository": {
     "type": "git",
